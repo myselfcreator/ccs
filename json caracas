@@ -1,24 +1,7 @@
-(Sistema Industrial Venezolano)
- 
-LoginPreferences
-WikiRoadmapBrowse SourceView TicketsSearch
-← Previous RevisionNext Revision →BlameRevision LogRepository URL
-source:observatorio/procesos/apps/geocadena/media/geojson/estados/01.geojson
-View diff against: 
-View revision: 
-Visit: 
-cadenasgeodjangoremotes/origin/simulacionsigsimulacion
-Last change on this file was 7c9f979, checked in by Ing. Roldan Vargas <rvargas@…>, 7 years ago
-Commit inicial del repositorio para el Observatorio de Mapa Industrial, con la estructura de aplicaciones en la rama 
-
-master
-Property mode set to 100644
-File size: 29.6 KB
-Line	 
-1	{
-2	"type": "FeatureCollection",
-3	"features": [
-4	{ "type": "Feature", "properties": { "COD_ESTADO": "01", "ESTADO": "DISTRITO CAPITAL" }, "geometry": { "type": 
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "COD_ESTADO": "01", "ESTADO": "DISTRITO CAPITAL" }, "geometry": { "type": 
 
 "Polygon", "coordinates": [ [ [ -67.027573, 10.536409 ], [ -67.027046, 10.536574 ], [ -67.026001, 10.536855 ], [ -
 
@@ -517,6 +500,6 @@ Line
 -67.033691, 10.535714 ], [ -67.033066, 10.535717 ], [ -67.031967, 10.535677 ], [ -67.030807, 10.535752 ], [ -67.030159, 
 
 10.535846 ], [ -67.028091, 10.536248 ], [ -67.027573, 10.536409 ] ] ] } }
-5	
-6	]
-7	}
+
+]
+}
